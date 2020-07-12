@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use App\Models\Staff;
 
 class StaffTableSeeder extends Seeder
 {
@@ -12,12 +13,12 @@ class StaffTableSeeder extends Seeder
     public function run()
     {
  // Удалим имеющиеся в таблице данные
-        Article::truncate();
+        Staff::truncate();
 
         $faker = \Faker\Factory::create();
     
 		for ($i = 0; $i < 10; $i++) {
-            Article::create([
+            Staff::create([
                 'name' => $faker->name(),
                 'surname' => $faker->lastname(),
                 'patrname' => $faker->name(),
