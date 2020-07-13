@@ -2,7 +2,7 @@
  Использованный стек: LAPP(Linux Apache PostgreSQL PHP7.3)
 ![alt text](https://www.skinait.com/software-infraestructura/cms/clientes/skina2018/img/linux-apache-php-postgresql.svg)
 
-# Ход выполнения:<br><br>
+# Структура проекта и задания:<br><br>
 # /App/Models
 1) Созданы модели Staff(Сотрудники), Article(Новости медицины), User(По умолчанию с коробки) а так же миграции к ним.<br> 
 # /Database/migrations 
@@ -14,10 +14,10 @@
 
 # Скриншоты локальной БД PostgreSQL <br>
 
-# Сотрудники
+  Сотрудники
 ![alt text](https://sun9-24.userapi.com/Wqfe1ygim_8GysCbCQWnqRozwrPRLPXDDcHHBg/2kY3SH22Dvs.jpg)
 <br><br>
-# Новости медицины
+  Новости медицины
 ![alt text](https://sun9-24.userapi.com/Wqfe1ygim_8GysCbCQWnqRozwrPRLPXDDcHHBg/2kY3SH22Dvs.jpg)
 
 
