@@ -1,21 +1,22 @@
 ## Задача: Реализовать REST-API для указанных маршрутов на Laravel
-## Использованный стек: LAPP(Linux Apache PostgreSQL PHP7.3)
+ Использованный стек: LAPP(Linux Apache PostgreSQL PHP7.3)
+![alt text](https://www.skinait.com/software-infraestructura/cms/clientes/skina2018/img/linux-apache-php-postgresql.svg)
 
-## Ход выполнения:<br>
+# Ход выполнения:<br><br>
 # /App/Models
 1) Созданы модели Staff(Сотрудники), Article(Новости медицины), User(По умолчанию с коробки) а так же миграции к ним.<br> 
 # /Database/migrations 
-2) Дописан метод up() в файлах миграции, для создания табличной структуры.  
+2) Дописан метод up() в файлах миграции, для создания табличной структуры.  <br>
 # /Database/seeds
-3) Добавлены сиды, для фейкового заполнения данными таблиц.
+3) Добавлены сиды, для фейкового заполнения данными таблиц.<br>
 # /App/Http/Controllers
 4) Созданы контоллеры ArticleController(index, show, store, update, delete), StaffContoller(index, show).
 
-## Скриншоты локальной БД PostgreSQL <br>
+# Скриншоты локальной БД PostgreSQL <br>
 
 # Сотрудники
 ![alt text](https://sun9-24.userapi.com/Wqfe1ygim_8GysCbCQWnqRozwrPRLPXDDcHHBg/2kY3SH22Dvs.jpg)
-<br>
+<br><br>
 # Новости медицины
 ![alt text](https://sun9-24.userapi.com/Wqfe1ygim_8GysCbCQWnqRozwrPRLPXDDcHHBg/2kY3SH22Dvs.jpg)
 
