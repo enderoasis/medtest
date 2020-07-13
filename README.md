@@ -7,9 +7,6 @@
 1) Созданы модели Staff(Сотрудники), Article(Новости медицины), User(По умолчанию с коробки) а так же миграции к ним.<br> 
 # /Database/migrations 
 2) Дописан метод up() в файлах миграции, для создания табличной структуры. 
-<br>
-![alt text](https://sun3-11.userapi.com/ZNI9imnDQMF6QA-h-qEW-xzNYtOFdcBBF0ralA/e8Azzg76Shs.jpg)
-<br>
 # /Database/seeds
 3) Добавлены сиды, для фейкового заполнения данными таблиц.<br>
 # /App/Http/Controllers
