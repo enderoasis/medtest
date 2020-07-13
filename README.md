@@ -2,9 +2,13 @@
 ## Использованный стек: LAPP(Linux Apache PostgreSQL PHP7.3)
 
 ## Ход выполнения:<br>
-1) Созданы модели Staff(Сотрудники), Article(Новости медицины), User(По умолчанию с коробки) а так же миграции к ним.<br>  #/App/Models
-2) Дописан метод up() в файлах миграции, для создания табличной структуры.  #/Database/migrations 
-3) Добавлены сиды, для фейкового заполнения данными таблиц # /database/seeds
+# /App/Models
+1) Созданы модели Staff(Сотрудники), Article(Новости медицины), User(По умолчанию с коробки) а так же миграции к ним.<br> 
+# /Database/migrations 
+2) Дописан метод up() в файлах миграции, для создания табличной структуры.  
+# /Database/seeds
+3) Добавлены сиды, для фейкового заполнения данными таблиц.
+# /App/Http/Controllers
 4) Созданы контоллеры ArticleController(index, show, store, update, delete), StaffContoller(index, show).
 
 ## Скриншоты локальной БД PostgreSQL <br>
