@@ -20,7 +20,7 @@
   Новости медицины
 ![alt text](https://sun9-24.userapi.com/Wqfe1ygim_8GysCbCQWnqRozwrPRLPXDDcHHBg/2kY3SH22Dvs.jpg)
 <br><br>
-  Сиды и миграция
+  Сиды и миграция<br>
 ![alt text](https://sun3-11.userapi.com/ZNI9imnDQMF6QA-h-qEW-xzNYtOFdcBBF0ralA/e8Azzg76Shs.jpg)
 
 
