@@ -1,5 +1,5 @@
 ## Задача: Реализовать REST-API для указанных маршрутов на Laravel
- Использованный стек: LAPP(Linux Apache PostgreSQL PHP7.3)
+ Использованный стек + окружение : Laravel on LAPP( Linux(Ubuntu 18.04) Apache2.4 PostgreSQL12 PHP 7.3)
 ![alt text](https://www.skinait.com/software-infraestructura/cms/clientes/skina2018/img/linux-apache-php-postgresql.svg)
 
 # Структура проекта и задания:<br><br>
